@@ -4,8 +4,9 @@
   "description": "Lab 03",
   "main": "app.js",
   "scripts": {
-    "test": "sample"
+    "start": "node app.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AshenWijesingha/AFWELAB03.git"
