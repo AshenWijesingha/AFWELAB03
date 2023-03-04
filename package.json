@@ -1,0 +1,19 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Lab 03",
+  "main": "app.js",
+  "scripts": {
+    "test": "sample"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshenWijesingha/AFWELAB03.git"
+  },
+  "author": "Ashen_Wijesingha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshenWijesingha/AFWELAB03/issues"
+  },
+  "homepage": "https://github.com/AshenWijesingha/AFWELAB03#readme"
+}
